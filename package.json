@@ -1,6 +1,6 @@
 {
   "name": "textangularjs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A fork of textangular that can be used on Angular 1.7+",
   "maintainers": [
     {

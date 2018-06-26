@@ -1,13 +1,10 @@
 {
-  "name": "textangular",
-  "version": "1.5.16",
-  "description": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js",
+  "name": "textangularjs",
+  "version": "1.0.0",
+  "description": "A fork of textangular that can be used on Angular 1.7+",
   "maintainers": [
     {
-      "name": "Fraywing"
-    },
-    {
-      "name": "SimeonC"
+      "name": "antosarho"
     }
   ],
   "keywords": [
@@ -61,6 +58,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraywing/textAngular.git"
+    "url": "https://github.com/antosarho/textAngularJs"
   }
 }

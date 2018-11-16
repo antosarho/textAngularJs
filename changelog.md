@@ -1,3 +1,8 @@
+<a name="2.1.2"></a>
+## [2.1.2](https://github.com/antosarho/textAngularJs/compare/v2.1.1...v2.1.2) (2018-11-16)
+
+
+
 <a name="2.1.1"></a>
 ## [2.1.1](https://github.com/antosarho/textAngularJs/compare/v2.1.0...v2.1.1) (2018-11-16)
 

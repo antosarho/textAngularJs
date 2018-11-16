@@ -1032,7 +1032,7 @@ angular.module('textAngularSetup', [])
 @license textAngular
 Author : Austin Anderson
 License : 2013 MIT
-Version 2.1.0
+Version 2.1.1
 
 See README.md or https://github.com/fraywing/textAngular/wiki for requirements and use.
 */
@@ -1043,7 +1043,7 @@ Commonjs package manager support (eg componentjs).
 
 
 "use strict";// NOTE: textAngularVersion must match the Gruntfile.js 'setVersion' task.... and have format v/d+./d+./d+
-var textAngularVersion = 'v2.1.0';   // This is automatically updated during the build process to the current release!
+var textAngularVersion = 'v2.1.1';   // This is automatically updated during the build process to the current release!
 
 
 // IE version detection - http://stackoverflow.com/questions/4169160/javascript-ie-detection-why-not-use-simple-conditional-comments

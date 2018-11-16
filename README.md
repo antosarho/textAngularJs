@@ -1,4 +1,4 @@
-textAngularJs v2.0.1
+textAngularJs
 ===========
 
 This is a fork of textAngular that works with Angular 1.7+
